@@ -9,7 +9,7 @@
 
 
 ## 安装下载
-
+https://github.com/doudizhu/fast-cache-ddz/releases
 
 ## 快速使用
 
