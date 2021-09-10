@@ -10,6 +10,8 @@
 
 ## 安装下载
 https://github.com/doudizhu/fast-cache-ddz/releases
+- `npm i fast-cache-npm`
+- CDN http://unpkg.com/fast-cache-ddz/release/bundle.js
 
 ## 快速使用
 
